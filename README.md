@@ -1,4 +1,4 @@
-# Sunshine Customer Portal
+# Pet Customer Portal
 
 A modern customer portal for pet owners to manage appointments, daycare reservations, boarding services, grooming, payments, and pet information.
 
